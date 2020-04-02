@@ -1,7 +1,9 @@
 #
 # (C) Tenable Network Security, Inc.
-# The script is property of Tenable Inc. and placed here for deucational reading.
-# If you going to use the script for any other purpose please contact the owner first to obtain permission.
+# 
+####      Attention!    ####
+# All information provided here is for reference only. 
+# If you want to use it in any way, please contact respective owner - Tenable Network Security.
 #
 
 account = "root";
